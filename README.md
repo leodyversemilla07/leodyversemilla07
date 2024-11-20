@@ -16,7 +16,7 @@
 - **[Another Project](link-to-project)**: Brief description.
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leodyversemilla07&show_icons=true&theme=radical)
 
 ## Fun Facts
 - 🎮 I enjoy playing games.
