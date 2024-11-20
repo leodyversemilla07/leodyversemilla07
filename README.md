@@ -3,7 +3,7 @@
 ## About Me
 🌱 I’m currently learning **AI, Blockchain, Web Development and many more**  
 💻 I’m working on **creating a PoC for my startup**  
-🔭 I’m looking to collaborate on **of project that will me learn more about technologies**  
+🔭 I’m looking to collaborate on **of project that will make me learn more about technologies**  
 📫 Reach me at **leodyversemilla07@gmail.com**  
 
 ## Technologies & Tools
