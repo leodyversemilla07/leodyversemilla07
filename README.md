@@ -6,9 +6,9 @@ Currently building innovative solutions and exploring AI, blockchain, and scalab
 
 ## Tech Stack
 
-**Frontend:** React, JavaScript, TypeScript  
+**Frontend:** React, JavaScript, TypeScript, Tailwind CSS  
 **Backend:** Node.js, PHP, Laravel, Python  
-**Tools:** Git, Docker
+**Tools:** Git, GitHub, Vite, npm, Docker
 
 ## Current Focus
 
