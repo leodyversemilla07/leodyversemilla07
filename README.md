@@ -19,8 +19,17 @@ Currently building innovative solutions and exploring AI, blockchain, and scalab
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=leodyversemilla07&show_icons=true&theme=minimal&hide_border=true" alt="GitHub Stats" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodyversemilla07&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" height="150">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leodyversemilla07&show_icons=true&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=leodyversemilla07&show_icons=true&theme=default&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leodyversemilla07&show_icons=true&theme=default&hide_border=true" height="150">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leodyversemilla07&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leodyversemilla07&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodyversemilla07&layout=compact&theme=default&hide_border=true" height="150">
+</picture>
 
 ## Connect
 
