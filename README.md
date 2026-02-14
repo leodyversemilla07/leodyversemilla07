@@ -14,9 +14,7 @@
 
 ## Current Projects
 
-* 📚 **[ai-agents-field-guide](https://github.com/leodyversemilla07/ai-agents-field-guide)** - The complete field guide for AI-era engineering
 * 💳 **[paymongo-cli](https://github.com/leodyversemilla07/paymongo-cli)** - A developer-first CLI for PayMongo integration with local webhook forwarding
-* 🌐 **[leodyversemilla07.github.io](https://github.com/leodyversemilla07/leodyversemilla07.github.io)** - My little corner of the web
 * 🔧 **[rjms](https://github.com/leodyversemilla07/rjms)** - Research Journal Management System for academic publications (MVC, PHP 8.3, MySQL)
 * 📱 **[gloria-connect-app](https://github.com/leodyversemilla07/gloria-connect-app)** - Business management app with multilingual support (Next.js, Convex)
 * 🍰 **[cake-api](https://github.com/leodyversemilla07/cake-api)** - RESTful API for cake management (Node.js, Express, SQLite)
